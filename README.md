@@ -1,10 +1,8 @@
-# IOS-Project1
+# Project 1 - My Story
 
-# Project 1 - *Name of App Here*
+Submitted by: Chris Qiu
 
-Submitted by: **Your Name Here**
-
-**Name of your app** is an app that introduces ... [TODO] 
+My Story is an app that introduces ... [TODO] 
 
 Time spent: **X** hours spent in total
 
