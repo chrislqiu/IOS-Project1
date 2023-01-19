@@ -2,7 +2,7 @@
 
 Submitted by: Chris Qiu
 
-My Story is an app that introduces ... [TODO] 
+My Story is an app that introduces Purdue
 
 Time spent: **X** hours spent in total
 
