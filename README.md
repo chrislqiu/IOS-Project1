@@ -41,7 +41,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Big Learning curve, instructors were going really fast in lecture. Also new to swift.
 
 ## License
 
